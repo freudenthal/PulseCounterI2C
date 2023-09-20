@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Teensy")(type "Legacy")(uri "${KIPRJMOD}/teensy.lib")(options "")(descr ""))
+  (lib (name "NXP")(type "Legacy")(uri "${KIPRJMOD}/NXP.lib")(options "")(descr ""))
+  (lib (name "ClockCounter")(type "KiCad")(uri "${KIPRJMOD}/ClockCounter.kicad_sym")(options "")(descr ""))
+  (lib (name "EEPROMI2C")(type "KiCad")(uri "${KIPRJMOD}/EEPROMI2C.kicad_sym")(options "")(descr ""))
+)
